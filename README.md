@@ -15,5 +15,6 @@ A curated collection of resources for building accessible Flutter applications.
 
 - [VoiceOver iOS Quick Guide](https://www.youtube.com/watch?v=ROIe49kXOc8) - Essential tutorial for testing iOS accessibility
 - [Deep Dive into Semantics](https://www.youtube.com/watch?v=X_69fiYgTuE&t=735s) - Comprehensive talk on Flutter semantics and accessibility (inspiration for this talk)
+- [WCAG Standards Overview](https://www.youtube.com/watch?v=NEK3aMPs1Us) - Complete guide to WCAG standards, useful for non-standard app implementations
 
 *Resources compiled for the GDG talk on Flutter accessibility*
