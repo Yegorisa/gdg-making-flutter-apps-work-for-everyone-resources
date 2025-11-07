@@ -9,6 +9,7 @@ A curated collection of resources for building accessible Flutter applications.
 ## 📚 Documentation
 
 - [Flutter AI Rules](https://docs.flutter.dev/ai/ai-rules) - Official Flutter documentation on AI integration rules
+- [Copilot Instructions](./copilot-instructions.md) - Custom instructions for GitHub Copilot to help generate accessible Flutter code
 
 ## 🎥 Video Resources
 
