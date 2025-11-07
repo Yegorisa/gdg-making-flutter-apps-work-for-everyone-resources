@@ -1,7 +1,18 @@
-https://pub.dev/packages/accessibility_tools
+# Making Flutter Apps Work for Everyone - Resources
 
-https://docs.flutter.dev/ai/ai-rules
+A curated collection of resources for building accessible Flutter applications.
 
-Voice Over iOS quick guide: https://www.youtube.com/watch?v=ROIe49kXOc8
+## 📦 Packages
 
-The talk that inspired me (deep dive into semantics): https://www.youtube.com/watch?v=X_69fiYgTuE&t=735s
+- [accessibility_tools](https://pub.dev/packages/accessibility_tools) - Flutter package for testing and debugging accessibility features
+
+## 📚 Documentation
+
+- [Flutter AI Rules](https://docs.flutter.dev/ai/ai-rules) - Official Flutter documentation on AI integration rules
+
+## 🎥 Video Resources
+
+- [VoiceOver iOS Quick Guide](https://www.youtube.com/watch?v=ROIe49kXOc8) - Essential tutorial for testing iOS accessibility
+- [Deep Dive into Semantics](https://www.youtube.com/watch?v=X_69fiYgTuE&t=735s) - Comprehensive talk on Flutter semantics and accessibility (inspiration for this talk)
+
+*Resources compiled for the GDG talk on Flutter accessibility*
